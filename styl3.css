@@ -1,0 +1,12 @@
+.bg44{
+  background-image:url('img/4.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+.blog{
+  background-repeat:no-repeat;
+  background-size:cover;
+  width:60%;
+  height: 50%;
+  padding-left:200px;
+}
